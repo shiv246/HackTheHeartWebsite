@@ -38,9 +38,9 @@ const name = 'Hack the Heart';
 
 const TOP_SECTION = {
   TITLE: name,
-  Typed_effect: ['2 days', '3 Streams', 'Cool prizes'],
+  Typed_effect: ['2 days', '3 Streams', 'Cool workshops', '$500+ in Prizes'],
   SHORT_DESCRIPTION:
-    'Join us on 3rd-4th February 2024 for 2 days of creation, innovation, & fun!',
+    'Join us on 24th-25th February 2024 for 2 days of creation, innovation, & fun!',
   IMG_SRC: boy,
   DISCORD_LINK: '',
   JUDGES_FORM_LINK: '',
@@ -113,7 +113,7 @@ const schedule = [
     ]
   },
   {
-    day: '3-2-2024',
+    day: '24-2-2024',
     events: [
       {
         title: 'Hack the Heart Day 1',
@@ -123,7 +123,7 @@ const schedule = [
     ]
   },
   {
-    day: '4-2-2024',
+    day: '25-2-2024',
     events: [
       {
         title: 'Hack the Heart Day 2',
