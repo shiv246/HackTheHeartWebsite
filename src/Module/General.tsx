@@ -116,18 +116,63 @@ const schedule = [
     day: '24-2-2024',
     events: [
       {
-        title: 'Hack the Heart Day 1',
-        timings: '9 AM - 9 PM',
+        title: 'Registration & Check-in',
+        timings: '9:30 AM - 10 AM',
         link: ' '
-      }
+      },
+      {
+        title: 'Opening Ceremony including Keynote Speaker: Dr. Craig Simmons',
+        timings: '10:00 - 11:00 AM',
+        link: ' '
+      },
+      {
+        title: 'Workshop 1: MRI: The Gold Standard for Cardiac Imaging by Jay Patel',
+        timings: '2:00 PM - 3:00 PM',
+        link: ' '
+      }, 
+      {
+        title: 'Workshop 2: Biorobotics and Rapid Prototyping by Katie Allison',
+        timings: '3:00 PM - 4:00 PM',
+        link: ' '
+      }, 
+      {
+        title: 'Workshop 3: Wearable Tech in Cardiology by Megh Rathod',
+        timings: '4:00 PM - 5:00 PM',
+        link: ' '
+      }, 
+      {
+        title: 'Workshop 4: Intro to Basic Hardware and Arduino by Craig Macsemchuk',
+        timings: '6:00 PM - 7:00 PM',
+        link: ' '
+      }, 
+      {
+        title: 'Dinner',
+        timings: '7:30 PM - 8:30 PM',
+        link: ' '
+      } 
     ]
   },
   {
     day: '25-2-2024',
     events: [
       {
-        title: 'Hack the Heart Day 2',
-        timings: '9 AM - 5 PM',
+        title: 'Breakfast',
+        timings: '9:00 AM - 10:00 AM',
+        link: ' '
+      }, 
+      {
+        title: 'Submissions Close!',
+        timings: '11:00 AM',
+        link: ' '
+      }, 
+      {
+        title: 'Presentations',
+        timings: '12:00 PM - 2:00 PM',
+        link: ' '
+      },
+      {
+        title: 'Closing Ceremony',
+        timings: '3:00 PM - 4:00 PM',
         link: ' '
       }
     ]
