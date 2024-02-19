@@ -101,7 +101,7 @@ export default function HomePage() {
             <Col className="info-div" sm={12} lg={7} md={7}>
               <Myinfo />
             </Col>
-            <Col className="d-image" sm={12} lg={5} md={5}>
+            <Col className="d-image" sm={12} lg={4} md={4}>
               <Logo />
             </Col>
           </Row>
