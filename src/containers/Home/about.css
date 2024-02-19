@@ -99,3 +99,34 @@ h1 {
     padding: 20vh 0vh 0 0vh;
   }
 }
+
+table.GeneratedTable {
+  margin: 0 auto;
+  padding: 0 4vh 0 4vh;
+  width: 80%;
+  border-radius: 14px;
+
+  align-self: center;
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-width: 2px;
+  border-color: #f21137;
+  border-style: solid;
+  color: #000000;
+}
+
+table.GeneratedTable td,
+table.GeneratedTable th {
+  border-width: 2px;
+  border-color: #f21137;
+  border-style: solid;
+  padding: 3px;
+  text-align: center;
+}
+
+table.GeneratedTable thead {
+  background-color: #f21137;
+  text-align: center;
+  color: #ffffff;
+}
+

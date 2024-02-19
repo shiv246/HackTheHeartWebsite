@@ -123,9 +123,105 @@ export default function HomePage() {
             <Logo />
           </Col>
         </Row>
+        {/* ******** Event Schedule here ***** */}
+        <h1>Event Schedule</h1>
+        <h2 align="center">Day 1</h2>
+        <table class="GeneratedTable">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Event</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9:30 AM - 10:00 AM</td>
+              <td>
+                Registration <br /> <i>(Location: Foyer)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>10:00 AM - 11:00 AM</td>
+              <td>
+                Opening Ceremonies <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>2:00 PM - 3:00 PM</td>
+              <td>
+                Workshop 1 <br /> MRI: The Gold Standard for Cardiac Imagine By
+                Jay Patel <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>3:00 PM - 4:00 PM</td>
+              <td>
+                Workshop 2 <br /> Biorobotics and Rapid Prototyping by Katie
+                Allison <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>4:00 PM - 5:00 PM</td>
+              <td>
+                Workshop 3 <br /> Wearable Tech In Cardiology by Megh Rathod{' '}
+                <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>6:00 PM - 7:00 PM</td>
+              <td>
+                Workshop 4 <br /> Intro to Basic Hardware and Arduino by Craig
+                Macsemchuk <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>7:30 PM - 8:30 PM</td>
+              <td>
+                Dinner <br /> <i>(Location: Foyer)</i>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <h2 align="center">Day 2</h2>
+        <table class="GeneratedTable">
+          <thead>
+            <tr>
+              <th>Time</th>
+              <th>Event</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>9:00 AM - 10:00 AM</td>
+              <td>
+                Breakfast <br /> <i>(Location: Foyer)</i>
+              </td>
+            </tr>
+            <tr>
+              <td>11:00 AM</td>
+              <td>Submissions close!</td>
+            </tr>
+            <tr>
+              <td>12:00 PM - 2:00 PM</td>
+              <td>
+                Presentations <br /> <i> (Location: BA2145, BA2155, BA2165) </i>
+              </td>
+            </tr>
+            <tr>
+              <td>3:00 PM - 4:00 PM</td>
+              <td>
+                Closing Ceremony
+                <br /> <i>(Location: BA1130)</i>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        {/* ********Event Schedule ending here ***** */}
 
         {/* ********Frequently asked Questions here ***** */}
         <div className="Myfaqs" id="faq">
+          <h1>Frequently Asked Questions</h1>
           {frequentlyAskedQuestions.map(FrequentlyAsked)}
           {/* ********Frequently asked Questions ending here ***** */}
         </div>
