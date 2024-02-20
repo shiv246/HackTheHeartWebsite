@@ -136,48 +136,48 @@ export default function HomePage() {
           <tbody>
             <tr>
               <td>9:30 AM - 10:00 AM</td>
-              <td>
-                Registration <br /> <i>(Location: Foyer)</i>
+              <td> <b>
+                Registration </b><br /> (Location: Foyer)
               </td>
             </tr>
             <tr>
               <td>10:00 AM - 11:00 AM</td>
-              <td>
-                Opening Ceremonies <br /> <i>(Location: BA1130)</i>
+              <td> <b>
+                Opening Ceremonies</b> <br /> (Location: BA1130)
               </td>
             </tr>
             <tr>
               <td>2:00 PM - 3:00 PM</td>
-              <td>
+              <td><b>
                 Workshop 1 <br /> MRI: The Gold Standard for Cardiac Imagine By
-                Jay Patel <br /> <i>(Location: BA1130)</i>
+                Jay Patel</b> <br /> (Location: BA1130)
               </td>
             </tr>
             <tr>
               <td>3:00 PM - 4:00 PM</td>
-              <td>
+              <td><b>
                 Workshop 2 <br /> Biorobotics and Rapid Prototyping by Katie
-                Allison <br /> <i>(Location: BA1130)</i>
+                Allison </b><br /> (Location: BA1130)
               </td>
             </tr>
             <tr>
               <td>4:00 PM - 5:00 PM</td>
-              <td>
+              <td><b>
                 Workshop 3 <br /> Wearable Tech In Cardiology by Megh Rathod{' '}
-                <br /> <i>(Location: BA1130)</i>
+                </b><br /> (Location: BA1130)
               </td>
             </tr>
             <tr>
               <td>6:00 PM - 7:00 PM</td>
-              <td>
-                Workshop 4 <br /> Intro to Basic Hardware and Arduino by Craig
-                Macsemchuk <br /> <i>(Location: BA1130)</i>
+              <td><b>
+                Workshop 4 <br /> Arduino Basics and Measuring ECG by Craig
+                Macsemchuk</b><br /> (Location: BA1130)
               </td>
             </tr>
             <tr>
               <td>7:30 PM - 8:30 PM</td>
-              <td>
-                Dinner <br /> <i>(Location: Foyer)</i>
+              <td> <b>
+                Dinner </b><br /> (Location: Foyer)
               </td>
             </tr>
           </tbody>
@@ -193,25 +193,25 @@ export default function HomePage() {
           <tbody>
             <tr>
               <td>9:00 AM - 10:00 AM</td>
-              <td>
-                Breakfast <br /> <i>(Location: Foyer)</i>
+              <td> <b>
+                Breakfast </b><br /> (Location: Foyer)
               </td>
             </tr>
             <tr>
               <td>11:00 AM</td>
-              <td>Submissions close!</td>
+              <td><b>Submissions close! </b></td>
             </tr>
             <tr>
               <td>12:00 PM - 2:00 PM</td>
               <td>
-                Presentations <br /> <i> (Location: BA2145, BA2155, BA2165) </i>
+                <b>Presentations</b> <br /> (Location: BA2145, BA2155, BA2165)
               </td>
             </tr>
             <tr>
               <td>3:00 PM - 4:00 PM</td>
-              <td>
-                Closing Ceremony
-                <br /> <i>(Location: BA1130)</i>
+              <td><b>
+                Closing Ceremony</b>
+                <br /> (Location: BA1130)
               </td>
             </tr>
           </tbody>
